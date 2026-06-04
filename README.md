@@ -3,6 +3,9 @@
 ## Overview
 Built a fully serverless cloud portfolio website using AWS services and CI/CD automation.
 
+## Live Demo
+🌐 Resume Website: file:///C:/Users/nikir/Desktop/cloud-resume/index.html
+
 ## AWS Services Used
 * Amazon S3
 * Amazon CloudFront
